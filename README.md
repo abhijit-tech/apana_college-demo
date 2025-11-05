@@ -1,3 +1,3 @@
 # apana_college-demo
-this is my 3rd repository
-author - Abhijit kanse
+this is my 3rd repository<br>
+Author - Abhijit kanse
